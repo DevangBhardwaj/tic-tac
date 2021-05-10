@@ -3,9 +3,9 @@ import ReactDOM from "react-dom";
 import { BrowserRouter, Route } from "react-router-dom";
 import { Board } from "./Components/Board";
 import { Scoreboard } from "./Components/Scoreboard";
-import "./styles/Board.css";
-import "./styles/Box.css";
-import "./styles/Buttons.css";
+import "./Styles/Board.css";
+import "./Styles/Box.css";
+import "./Styles/Buttons.css";
 
 class App extends React.Component {
   render() {
